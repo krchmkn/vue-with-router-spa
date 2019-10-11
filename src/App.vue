@@ -21,6 +21,8 @@ export default {
 
 <style lang="scss">
   .container {
+    min-width: 600px;
+    
     & h1 {
         padding: 30px 0;
         font-size: 28px;
